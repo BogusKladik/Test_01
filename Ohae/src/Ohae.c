@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 			res = a + b;
 			printf("%lf + %lf = %lf", a, b, res); // Вывод суммы
 			break;
-		case '-': // Разность
+		case '-':// Разность
 			res = a - b;
 			printf("%lf - %lf = %lf", a, b, res);// Вывод разности
 			break;
